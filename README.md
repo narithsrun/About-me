@@ -1,9 +1,11 @@
 ## Hi there 👋 I'm Narith
 🌱 I’m currently learning how to become an amazing Data Analyst
-🔭 I’m currently working on different projects 
-📫 How to reach me: [Email](narith.srun@gmail.com) [linkedin](https://www.linkedin.com/in/dynarithsrun/)
 
-Link to my [projects](https://mavenanalytics.io/profile/Dynarith-Srun/206032323)
+🔭 Looking for full-time job in Canada 
+
+📫 How to reach me: [Email](narith.srun@gmail.com)  or [linkedin](https://www.linkedin.com/in/dynarithsrun/)
+
+⚡Link to my [projects](https://mavenanalytics.io/profile/Dynarith-Srun/206032323)
 <!--
 **jibbr/jibbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
